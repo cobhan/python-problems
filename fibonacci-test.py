@@ -1,5 +1,5 @@
 
-# Ian McLoughlin
+# Cóbhan Phillipson
 # A program that displays Fibonacci numbers using people's names.
 
 def fib(n):
